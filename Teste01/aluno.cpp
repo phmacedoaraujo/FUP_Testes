@@ -2,7 +2,7 @@
 /* Retornar o maior dos numeros A e B e C e D dados como entrada. */
 int valor_maximo4 (int a, int b, int c, int d)
 {
-
+    return 0;
 }
 
 //1 pt
@@ -11,7 +11,7 @@ int valor_maximo4 (int a, int b, int c, int d)
 */
 int modulo (int num)
 {
-
+    return 0;
 }
 
 //2 pt
@@ -19,8 +19,7 @@ int modulo (int num)
 * por 5 retorne true */
 int ambos_3_ou_ambos_5 (int num1, int num2)
 {
-if( (num1%3==0 && num2%3==0) || (num1%5==0 && num2%5==0) ) return true;
-else return false;
+    return 0;
 }
 
 //2pt
